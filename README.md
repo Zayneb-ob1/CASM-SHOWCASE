@@ -92,7 +92,7 @@ Showcase repository: [github.com/Zayneb-ob1/CASM-SHOWCASE](https://github.com/Za
 ## Credits
 
 - **Client:** Chambre d’Artisanat de la Région Souss-Massa
-- **Design and development:** [Optizaworks](https://optizaworks.com)
+- **Design and development:** [zayneb ouabella]
 - **Showcase repository:** [Zayneb-ob1](https://github.com/Zayneb-ob1)
 
 CASM names, logos, photographs, and editorial content remain the property of their respective owners and are reproduced here solely to present the delivered work. No reuse rights are granted.
